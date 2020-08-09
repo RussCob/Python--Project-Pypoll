@@ -1,12 +1,12 @@
 ## Python Project PyPoll
 
-![Vote Counting](Images/Vote_counting.png)
+# Helping a small, rural town modernize it's vote counting process.
 
-*Helping a small, rural town modernize it's vote counting process.
+![Vote Counting](Images/Vote_counting.png)
 
 # Overview 
 
-*In this Project, I created a Python script for analyzing the votes of election result of PyPoll.
+* In this Project, I created a Python script for analyzing the votes of election result of PyPoll.
 
 * We have a dataset and the dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Our task is to create a Python script that analyzes the votes and calculates each of the following:
 
