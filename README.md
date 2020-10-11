@@ -2,7 +2,7 @@
 
 * Helping a small, rural town modernize it's vote counting process.
 
-![Vote Counting](Images/Vote_counting.png)
+![Vote Counting](Images/Vote_counting.png).
 
 # Overview 
 
