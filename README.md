@@ -10,7 +10,7 @@
 
 * We have a dataset and the dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Our task is to create a Python script that analyzes the votes and calculates each of the following:
 
-  * The total number of votes cast
+  * The total number of votes cast,
 
   * A complete list of candidates who received votes
 
