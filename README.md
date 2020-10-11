@@ -18,7 +18,7 @@
 
   * The total number of votes each candidate won,
 
-  * The winner of the election based on popular vote.
+  * The winner of the election based on popular vote,
   
   * Also, final script both print the analysis to the terminal and exporting a text file with the results.
 
